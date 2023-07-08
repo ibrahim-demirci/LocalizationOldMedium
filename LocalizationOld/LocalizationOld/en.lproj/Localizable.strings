@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  LocalizationOld
+
+  Created by İbrahim Demirci on 8.07.2023.
+  
+*/
+"LABEL_TEXT_FOR_COUNTER" = "Pressed %d times.";
